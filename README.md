@@ -17,7 +17,7 @@ One aspect is creating a repository of alternative (first and family) names. Thi
      <br>
  <br>
 Our resulting repository included more than a 1000 gender neutral, non-offensive words that do not tend to be used as existing names and that are less than eleven characters long, Including both English and te reo Māori entries.
- <br>
+ <br><br>
     ·
     <a href="https://github.com/RyanJManchester/stunning-pancake/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
@@ -49,14 +49,14 @@ Our resulting repository included more than a 1000 gender neutral, non-offensive
 
 ## Intent of this Repository
 <p align="center">
-This project follows the creation of an alternative-name repository and is provided in case other's want to replicate our Work or use it as a resource.  This has involved:</p>
-
-1. Investigating existing techniques for alternative-name generation (such as preset usernames and password generation) using a Literature review.
-
-2. Selecting suitable wordlists for use, and
-                                               
-3. Developing scripts that can filter out unwanted words based on several criteria.
-
+This project follows the creation of an alternative-name repository and is provided in case other's want to replicate our Work or use it as a resource.  This has involved:
+<br> <br>
+i) Investigating existing techniques for alternative-name generation (such as preset usernames and password generation) using a Literature review.
+<br> <br>
+ii) Selecting suitable wordlists for use, and
+<br>     <br>                                       
+iii) Developing scripts that can filter out unwanted words based on several criteria.
+</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -136,7 +136,7 @@ Other Scripts i have provided that might be helpful:
 
 ## Our Roadmap
 <div>
-<img src ="https://github.com/RyanJManchester/Name_Generation_for_Unidentified_Patients/blob/main/Jane%20Doe%20Poster.png" width = 900px />
+<img src ="https://github.com/RyanJManchester/Name_Generation_for_Unidentified_Patients/blob/main/Jane%20Doe%20Poster.png" width = 900px align="center"/>
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
