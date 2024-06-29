@@ -84,15 +84,36 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-1. Get a free API Key at [https://example.com](https://example.com)
-
-3. Install NPM packages
+1. After cloning the repo, place your desired starting files in the folder or use one of our templates
+  
+2. Use matcher.py to combine the wordlists together
+   
+  **Example:** python3 scripts/matcher.py templates/tree_nouns.txt templates/verbs.txt uncleaned_output.txt
    ```sh
-   npm install
+   python3 scripts/matcher.py first_names last_names desired_file_name
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+
+3. Cleaning the wordlists
+   You can use the cleaner script to remove lines that contain profanity or terms we deemed vulgar, or not suitable for placeholders.
+   if you wish to add you own text files that include words you wish to remove, you can modify the top line in the cleaners.py file
+     which provides you with a list you can add the file name to.
+   
+   ```sh
+   python3 scripts/cleaner.py to_clean
+   ```
+   Alternatively, you can clean each wordlist seperately prior to matching them together, but combined results wont be checked.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+4. Removing Duplicates if you want to
+   ```sh
+   python3 scripts/remove_duplicates my_output
+   ```
+   
+Other Scripts i have provided that might be helpful:
+   ```sh
+   python3 scripts/remove_duplicates my_output
+   ```
+   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -102,12 +123,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <div>
 <img src ="https://github.com/RyanJManchester/Name_Generation_for_Unidentified_Patients/blob/main/Jane%20Doe%20Poster.png" width = 900px />
 </div>
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-<!-- CONTRIBUTING -->
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -123,9 +141,6 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
@@ -133,11 +148,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-<!-- CONTACT -->
 ## Contact
 
-Your Name - ryanjamesmanchester@gmail.com
+[Email](rm534@students.waikato.ac.nz)
 
 Project Link: [https://github.com/RyanJManchester/stunning-pancake](https://github.com/RyanJManchester/stunning-pancake)
 
