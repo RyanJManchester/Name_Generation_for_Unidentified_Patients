@@ -1,0 +1,776 @@
+Hioi
+Hutu
+Karo
+Mawe
+Miki
+Miro
+Nana
+Puka
+Tawa
+Toro
+Toru
+Whau
+Wiwi
+rimu
+Hinau
+Inaka
+Kohia
+Mahoe
+Matai
+Nahui
+Ngaio
+Pukio
+Punui
+Purei
+ferns
+kauri
+wheki
+Akeake
+Flaxes
+Hakeke
+Hupiro
+Kaihua
+Kanono
+Kanuka
+Karaka
+Karamu
+Kawaka
+Kiekie
+Kiokio
+Kokihi
+Kopata
+Kopoti
+Kowhai
+Manuka
+Maruru
+Monoao
+Mudmat
+Neinei
+Niniao
+Pingao
+Pokaka
+Puriri
+Rawiri
+Rereti
+Rohutu
+Tainui
+Tataka
+Titoki
+Toatoa
+Tuhara
+Tupaia
+Winika
+kakaho
+mamaku
+manoao
+monoao
+mosses
+plants
+rushes
+sedges
+toatoa
+Akepiro
+Akiraho
+Bidibid
+Bracken
+Coxella
+Cudweed
+Haekaro
+Houhere
+Korokio
+Mamangi
+Mangeao
+Montias
+Mudwort
+Pukanui
+Pukatea
+Raoriki
+Rauhuia
+Raukawa
+Rautini
+Sundews
+Tamingi
+Taraire
+Tauhinu
+Taupata
+Tawapou
+Tawhero
+Uhurere
+Waoriki
+grasses
+legumes
+orchids
+spurges
+tauhinu
+taurepo
+Centella
+Coprosma
+Hakapiri
+Harakeke
+Heketara
+Kawakawa
+Kohekohe
+Koheriki
+Kopakopa
+Korikori
+Koromiko
+Maakoako
+Maikaika
+Mairehau
+Makamaka
+Mikimiki
+Ongaonga
+Paranako
+Paspalum
+Patotara
+Penwiper
+Piripiri
+Pohuehue
+Poroporo
+Ramarama
+Rangiora
+Rewarewa
+Sea Rimu
+Seagrass
+Selliera
+Silkpods
+Tanekaha
+Tutahuna
+Tutukiwi
+Whaupaku
+bog pine
+fan fern
+fuchsias
+kiwakiwa
+koromiko
+monocots
+pinatoro
+Bush Flax
+Capebells
+Duckweeds
+Kaikomako
+Kaka beak
+King fern
+Kumarahou
+Lancewood
+Matagouri
+Milk moss
+Nickernut
+Pixie cap
+Pondweeds
+Rasp fern
+Raukumara
+Red Beech
+Ross Lily
+Scree Pea
+Sea Blite
+Sea Sedge
+Seacorals
+Soft Fern
+Starworts
+Stonewort
+Tank lily
+Teteaweka
+Tirauriki
+Titirangi
+Tree Tutu
+Wharariki
+Wineberry
+bedstraws
+hornworts
+kahikatea
+pink pine
+plantains
+rawirinui
+ring fern
+Broom Rush
+Cord Broom
+Crepe fern
+Crown Fern
+Fish Hooks
+Frillworts
+Greenhoods
+Gully Fern
+Hangehange
+Hard Beech
+Haumakaroa
+Knob Sedge
+Leptinella
+Mingimingi
+Nikau palm
+Pahohoraka
+Pigeonwood
+Red Azolla
+Rengarenga
+Screw Fern
+Sea Celery
+Shore Hebe
+Stonecrops
+Stoneworts
+Strap fern
+Supplejack
+Swamp Musk
+Woollywort
+bush sedge
+buttercups
+chickweeds
+filmy fern
+grass lily
+groundsels
+hairy fern
+hard ferns
+ivy family
+liverworts
+mangemange
+plum pines
+pygmy pine
+quill moss
+woodrushes
+Autetaranga
+Biddy-biddy
+Black Maire
+Bush lawyer
+Button Fern
+Cheesewoods
+Coral Broom
+Coral broom
+Curly Sedge
+Cutty grass
+Daisybushes
+Jersey fern
+Leek Orchid
+Maire Taiki
+Parataniwha
+Peka-a-waka
+Pepperweeds
+Puawhananga
+Purua grass
+Rosy Sundew
+Shrub Daisy
+Spleenworts
+Sun Orchids
+Swamp Mapou
+Swamp broom
+Swamp maire
+Tall sundew
+Tawhitikaro
+Thread Fern
+Totorowhiti
+White Maire
+cliffbrakes
+filmy ferns
+five finger
+flax-lilies
+green algae
+kidney fern
+kidney weed
+mint family
+nightshades
+pink family
+riceflowers
+silver fern
+snow totara
+true sedges
+velvet fern
+willowherbs
+woodsorrels
+woollyheads
+Black Orchid
+Bladder Fern
+Blanket Fern
+Boxleaf Hebe
+Bristle Fern
+Cotton daisy
+Cypress hebe
+Desert Sedge
+Jointed rush
+Kowhangatara
+Parsley Fern
+Putaputaweta
+Red Pondweed
+Sand bidibid
+Shore Spurge
+Silver beech
+Small kiokio
+Square Sedge
+Swamp Kiokio
+austral rush
+carpet heath
+common broom
+dactylanthus
+daisy family
+fairy aprons
+fairy orchid
+heath family
+mikipapatahi
+parsley fern
+pygmy sundew
+shield ferns
+strand sedge
+swamp lawyer
+tangle ferns
+wintergreens
+Allans Sedge
+Bastard Grass
+Beach Spinach
+Carses Sedge
+Chatham Sedge
+Cliff Waxwort
+Climbing Fern
+Dwarf Bogrush
+Easter Orchid
+Edgars Sedge
+Feathery tutu
+Halls totara
+Hill Fireweed
+Hookers hebe
+Kawarau Cress
+Lake Clubrush
+Lantern Berry
+Leafless rush
+Matchbox Bean
+Matua Kaponga
+Potato Orchid
+Red mistletoe
+Sand Coprosma
+Scree Lobelia
+Sea club-rush
+Shaking Brake
+Silvery Bryum
+Swamp Astelia
+Turoa Onamata
+Umbrella fern
+Weeping Mapou
+Whipcord hebe
+citrus family
+hot rock fern
+pocket mosses
+waewae kotuku
+water milfoil
+Bird-lime Tree
+Bog Mingimingi
+Bug-on-a-stick
+Bushy Clubmoss
+Coastal Kowhai
+Creeping Mapou
+Dwarf Bedstraw
+Forget-me-nots
+Gossamer grass
+Haasts Carrot
+Hedgehog Grass
+Jersey Cudweed
+Lyalls Carrot
+Mahoe Leafspot
+Meadow-grasses
+Mountain Daisy
+Mountain Myrrh
+Mountain beech
+Sand buttercup
+Shining Karamu
+Shiny fan fern
+Silver Tussock
+Snow Groundsel
+Spaniard grass
+Spider orchids
+Tarn speedwell
+Turf-mat daisy
+Turfy Coprosma
+angled lobelia
+branching rush
+bush snowberry
+coastal toetoe
+feather mosses
+feldmark grass
+passionflowers
+pygmy clubmoss
+Alexandra Cress
+Awaroa Koromiko
+Beaded Samphire
+Black Hard Fern
+Coralline algae
+Creeping Lawyer
+Dwarf mistletoe
+Forked Veilwort
+Golden Spaniard
+Golden scabweed
+Great Soft-rush
+Green mistletoe
+Guano groundsel
+Hairy Pennywort
+Heath Star-moss
+Jagged Fireweed
+Kauri Greenhood
+Kermadec poplar
+Knobby Clubrush
+Leafless Lawyer
+Lindsay's Daisy
+Mark's Celmisia
+Mount Cook lily
+Mountain Kiokio
+Mountain carrot
+Mountain violet
+Northern rÄtÄ
+Porcupine Shrub
+Prostrate Broom
+Richards toetoe
+Royal Rock Moss
+Scree Buttercup
+Shore Groundsel
+Shore Hard Fern
+Southern Nettle
+Southern rÄtÄ
+Sphagnum mosses
+Twiggy coprosma
+Vegetable Sheep
+Wallaby grasses
+Water Starworts
+Zig-zag Bogrush
+alpine kelleria
+carpet clubmoss
+climbing rÄtÄ
+common bog-rush
+common pig fern
+dark nightshade
+forest bindweed
+grassland sedge
+mountain toatoa
+pink sun-orchid
+vascular plants
+Alpine Quillwort
+Berggren's sedge
+Broad-leaved poa
+Common Twig Rush
+Creeping Fuchsia
+Cutleaf burnweed
+Dwarf strap fern
+Fierce lancewood
+Fish Poison Tree
+Flat-leaved Rush
+Forked Comb Fern
+Green Bay Kiokio
+Greenhood Orchid
+Hairy Willowherb
+Leafy liverworts
+Lowland Horopito
+Matthew's Fescue
+Mountain Astelia
+Muttonbird Scrub
+New Zealand Dock
+New Zealand Musk
+Orange Rock Hair
+Papataniwhaniwha
+Poison Rock Fern
+Prostrate kowhai
+Scrambling Broom
+Shrubby tororaro
+Slender Clubmoss
+Slender Clubrush
+Spineless Acaena
+Swamp Sun Orchid
+Swamp Willowherb
+Tussock Bindweed
+blue shield fern
+domed sun orchid
+flowering plants
+giant speargrass
+hanging clubmoss
+leatherleaf fern
+little hard fern
+marsh arrowgrass
+mountain daisies
+scaly tree ferns
+water pennyworts
+winter greenhood
+Austral Lady-Fern
+Bank Haircap Moss
+Bitter Cryptandra
+Black shield fern
+Bonfire Liverwort
+Bushy Peppercress
+Carolina hornwort
+Climbing clubmoss
+Common Sneezeweed
+Common Sun Orchid
+Common tree daisy
+Cook Strait Mahoe
+Creeping Clubmoss
+Creeping Coprosma
+Fierce Speargrass
+Geothermal Kanuka
+Giant cutty grass
+Green Bird Orchid
+Haast's buttercup
+Hedgehog Sphagnum
+Horizontal Orchid
+Kermadec Koromiko
+Kirk's tree daisy
+Lax Bastard Grass
+Leafless Clematis
+Leather-leaf fern
+Maccaskill's hebe
+Manawa (Mangrove)
+Monro's Groundsel
+Mountain Clubmoss
+Mountain Horopito
+Native Wheatgrass
+Odd Leaved Orchid
+Perching kohukohu
+Poor Knights lily
+Pygmy Tree Orchid
+RÄtÄ and allies
+Scarlet mistletoe
+Scarlet snowberry
+Sickle Spleenwort
+Stout Dwarf Broom
+Swamp Shield-fern
+coastal greenhood
+fringed heartwort
+narrow filmy-fern
+pale beard orchid
+pipe-cleaner moss
+red tussock grass
+slender greenhood
+slender tree fern
+staghorn clubmoss
+waxweed pennywort
+Bachelor's buttons
+Bentham's Veronica
+Bog Mountain Daisy
+Coastal tree daisy
+Common Crystalwort
+Creeping Wire Vine
+Dead Man's Fingers
+Fiordland Parahebe
+Fleshy Tree Orchid
+Fork-leaved Sundew
+Forster's Clematis
+Hanging spleenwort
+Hatch's Thelymitra
+Hooker's Speedwell
+Leafless PÅhuehue
+Lyall's Spleenwort
+Martin's Speedwell
+Mokohinau Koromiko
+Mountain Oat Grass
+Mountain Snowberry
+Mountain Wineberry
+Murrell's Veronica
+New Zealand Carrot
+New Zealand Daphne
+New Zealand flaxes
+Pitted tangle fern
+Prickly mingimingi
+Red Hills geranium
+Riuwaka woollyhead
+Scabweed mat daisy
+Shining Spleenwort
+Small Shade Nettle
+Spreading Fan-fern
+Tarata (Lemonwood)
+Tiny forget-me-not
+Woolly Fringe-moss
+Yellow bladderwort
+alpine tangle fern
+common bird-orchid
+green midge-orchid
+gumland sun-orchid
+skeleton fork fern
+slender sun-orchid
+smooth shield fern
+spotted sun-orchid
+striped sun orchid
+tropical firmosses
+yellow silver-pine
+Alpine Crane's Bill
+Bartlett's Koromiko
+Coastal Peppercress
+Coastal cutty grass
+Colenso's hard fern
+Common Haircap Moss
+Cook's Scurvy Grass
+Everlasting-flowers
+Forest Cabbage Tree
+Fragrant tree daisy
+Goyens button daisy
+Hairless Leptinella
+Heart-leaved Kohuhu
+Hooker's Spleenwort
+Hound's Tongue Fern
+Kirk's Scurvy Grass
+Large Tongue Orchid
+Mount Burnett sedge
+Mountain ribbonwood
+New Zealand Anemone
+New Zealand Cushion
+New Zealand aniseed
+New Zealand jasmine
+Prickly Shield Fern
+Prostrate snowberry
+Purple Beard Orchid
+Scrambling pohuehue
+Small-leaved kowhai
+Solander's geranium
+Southern strap fern
+Strap- leaved Daisy
+Swamp helmet orchid
+Sykes's bush nettle
+White-leaved Lawyer
+cinquefoil geranium
+drooping filmy fern
+drooping spleenwort
+false staghorn fern
+fan-like filmy fern
+hound's tongue fern
+jungle bristle-fern
+koromiko kitea tahi
+large-leaved mÄhoe
+least yellow-sorrel
+snowdrop woodsorrel
+veined bristle-fern
+yellow cushionplant
+Australian Stonecrop
+Chatham Island Mapou
+Colenso's Sun Orchid
+Deciduous tree daisy
+Eyre Mountains Daisy
+Fennel-leaf Pondweed
+Floating Crystalwort
+Freshwater club-rush
+Giant flowered broom
+Hairy-legs Groundsel
+Lancewood tree daisy
+Large Mountain Daisy
+Large Mountain daisy
+Maungaraho Rock Hebe
+Mountain Five Finger
+New Zealand Bindweed
+New Zealand Harebell
+New Zealand Sphagnum
+New Zealand bluebell
+New Zealand skullcap
+Ngakawau Gorge Daisy
+Prince of Wales fern
+Speedwells and Hebes
+Teddy Bear Liverwort
+White Mountain Daisy
+joint-toothed mosses
+juniper haircap moss
+lesser tussock sedge
+long-leaved lacebark
+round water-starwort
+shiny film liverwort
+variable sword-sedge
+Australasian sea rush
+Campbell Island Daisy
+Coastal morning glory
+Common Mountain Daisy
+Dall's Mountain Daisy
+Dumortier's Liverwort
+Giant maidenhair fern
+Gibb's Mountain Daisy
+Hen and chickens fern
+Kahurangi Pittosporum
+Kermadecs pÅhutukawa
+Mountain Cabbage Tree
+New Zealand Broadleaf
+New Zealand Chickweed
+New Zealand Ice Plant
+New Zealand Pellitory
+New Zealand groundsel
+New Zealand pygmyweed
+North Island lacebark
+Orobus-seed Liverwort
+Pisa Flats woollyhead
+PÅ«hÄ PÄrÄkau Rahi
+Rough Maidenhair Fern
+Round Leaved Coprosma
+Slender Forest Orchid
+Spurred Helmet Orchid
+Sticky Mountain Daisy
+Tree Ferns and Allies
+Zotov's Bastard Grass
+dancing spider orchid
+dicots [paraphyletic]
+grooved helmet-orchid
+hen and chickens fern
+maidenhair spleenwort
+scrambling coral-fern
+white climbing rÄtÄ
+Campbell Island carrot
+Haast's Mountain Daisy
+Large-leaved milk tree
+Monro's Mountain Daisy
+Narrow-leaved lacebark
+New Zealand Blue Berry
+New Zealand Grassplant
+New Zealand Willowherb
+New Zealand linen flax
+North Island Edelweiss
+North Island eyebright
+South Island Edelweiss
+Turnip-rooted geranium
+Winter kauri greenhood
+Yellow snow marguerite
+grass-leaved greenhood
+small leaved milk tree
+stalked adder's-tongue
+Castle Hill bittercress
+Cunningham's maidenhair
+Hooker's Mountain Daisy
+Lyttelton forget-me-not
+New Zealand Black Beech
+Petrie's Mountain Daisy
+Poor Knights Spleenwort
+Three-ribbed Arrowgrass
+Wrinkle Leaf Pomaderris
+austral ladies'-tresses
+mauve-tufted sun orchid
+miniature brass-buttons
+small bearded greenhood
+trowel-leaved greenhood
+Banks Peninsula Sun Hebe
+Chatham Island Greenhood
+Chatham Island Ice Plant
+Eyre Mountains Buttercup
+Glaucous Pirri-pirri-bur
+New Zealand cabbage tree
+New Zealand swamp nettle
+Orange New Zealand Sedge
+Three Kings trumpet vine
+Tin Range Mountain Daisy
+cabbage trees and allies
+large-flowered mat daisy
+Cockayne's Mountain Daisy
+Egmont Bog Mountain Daisy
+Kaitorete Spit woollyhead
+New Zealand Horned Orchid
+New Zealand spider-orchid
+Silver-back Spider-Orchid
+Stewart Island speargrass
+Thick-leaved Scurvy Grass
+Thompson's Mountain Daisy
+geraniums and cranesbills
+geraniums and storksbills
+Armstrong's Mountain Daisy
+Mallow and Hibiscus Family
+New Zealand Flannel Flower
+Spotted Fleshy Tree Orchid
+carrots, ivies, and allies
+mangrove-leaved daisy-bush
+Clematis and leatherflowers
+Complex thallose liverworts
+complex thalloid liverworts
+lancewoods and five fingers
+Bittercresses and Toothworts
+Canterbury Plains tree daisy
+Chatham Island Bastard Grass
+Chatham Islands Scurvy Grass
+Green Cushion Mountain Daisy
+New Zealand Native Dandelion
+New Zealand spaghetti orchid
+White Cushion Mountain Daisy
+New Zealand Everlastingflower
+Silver Cushion Mountain Daisy
+needle-leaved mountain coprosma
+Stewart Island Silver Cushion Daisy
+grasses, sedges, cattails, and alliesCoastal Astelia

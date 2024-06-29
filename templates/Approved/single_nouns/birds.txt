@@ -1,0 +1,17 @@
+Crane
+Dove
+Eagle
+Finch
+Gull
+Hawk
+Ibis
+Jay
+Lark
+Magpie
+Owl
+Penguin
+Quail
+Robin
+Swan
+Toucan
+Wren

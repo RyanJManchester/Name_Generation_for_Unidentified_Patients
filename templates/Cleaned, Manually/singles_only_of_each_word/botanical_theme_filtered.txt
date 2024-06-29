@@ -1,0 +1,16 @@
+Anise
+Bay
+Cedar
+Dill
+Fern
+Holly
+Ivy
+Jasmine
+Laurel
+Mint
+Oak
+Pine
+Rosemary
+Sage
+Thyme
+Violet

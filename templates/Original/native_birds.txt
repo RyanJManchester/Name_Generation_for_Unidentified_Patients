@@ -1,0 +1,528 @@
+
+
+Emu
+Kea
+Coot
+Hihi
+Manu
+Owls
+Rook
+Weka
+Galah
+Gulls
+Kiwis
+Kuaka
+TÅ«Ä«
+Chukar
+Grebes
+Kakapo
+KererÅ
+KÄkÄ
+Prions
+Tomtit
+TÄiko
+Dunnock
+Fantail
+KererÅ«
+Mallard
+Parrots
+PÅ«keko
+TakahÄ“
+Fantails
+Hardhead
+Kakariki
+Landfowl
+Lapwings
+Penguins
+Redpolls
+Skylarks
+Starling
+Blackbird
+Blue Shag
+Buff Weka
+Cockatiel
+Lovebirds
+Mute Swan
+Starlings
+Tubenoses
+Waterfowl
+Wood Duck
+Black Kite
+Black Shag
+Black Swan
+Black Tern
+Brown Skua
+Fairy Tern
+Great Knot
+Greenfinch
+Grey Geese
+Grey Noddy
+Little Owl
+Mollymawks
+Otago Shag
+Passerines
+Sanderling
+Sooty Tern
+White Tern
+Yellowhead
+Albatrosses
+Arctic Skua
+Arctic Tern
+Black Robin
+Blue Petrel
+Brown Booby
+Brown Noddy
+Brown Quail
+Cape Petrel
+Common Myna
+Common Tern
+Fairy Prion
+Glossy Ibis
+Grey Petrel
+Grey Plover
+Honeyeaters
+Lesser Knot
+Little Shag
+Little Tern
+Marsh Crake
+Rock Pigeon
+Saddlebacks
+Song Thrush
+Tree Martin
+Wild Turkey
+Barbary Dove
+Canada Goose
+Cattle Egret
+Cirl Bunting
+Feral Pigeon
+Foveaux Shag
+Fulmar Prion
+Kaka and Kea
+King Penguin
+Little Egret
+Manu (Birds)
+Masked Booby
+Masked Gulls
+Muscovy Duck
+Shore Plover
+Small Grebes
+Spotted Dove
+Typical Owls
+Western Rook
+Western Weka
+Yellowhammer
+Cattle Egrets
+Chestnut Teal
+Cook's Petrel
+Giant Petrels
+Greylag Goose
+House Sparrow
+Island Canary
+Laughing Gull
+Little Curlew
+Mandarin Duck
+Pallid Cuckoo
+Pomarine Skua
+Royal Penguin
+Snares Tomtit
+Swamp Harrier
+True Sparrows
+Typical Terns
+Antarctic Tern
+Chatham Petrel
+Crested Pigeon
+Diving-Petrels
+Domestic Quail
+Gadfly Petrels
+Green Pheasant
+Indian Peafowl
+Japanese Quail
+Kermadec TÅ«Ä«
+Lesser Redpoll
+Magenta Petrel
+Mottled Petrel
+Oystercatchers
+Red Junglefowl
+Salvin's Prion
+Shining Cuckoo
+Spotless Crake
+Typical Stilts
+Whiskered Tern
+Antarctic Prion
+Australian Tern
+British Dunnock
+Domestic Canary
+Domestic Turkey
+Eastern Rosella
+Emperor Penguin
+Franklin's Gull
+Golden Pheasant
+Kermadec Petrel
+Long-toed Stint
+Marsh Sandpiper
+Nankeen Kestrel
+Oriental Plover
+Petroica Robins
+Rock Partridges
+Ruddy Turnstone
+Ruru (Morepork)
+Silver Pheasant
+Snowy Albatross
+Southern Fulmar
+Terek Sandpiper
+Westland Petrel
+Antarctic Petrel
+Black-naped Tern
+Buff-banded Rail
+California Quail
+Common Chaffinch
+Curlew Sandpiper
+Domestic Chicken
+Domestic Mallard
+Eurasian Skylark
+European Skylark
+Forbes' Parakeet
+Great Shearwater
+Hudsonian Godwit
+Kerguelen Petrel
+Northern Pintail
+Pitt Island Shag
+Pycroft's Petrel
+Rainbow Lorikeet
+Red-footed Booby
+Red-necked Stint
+Ruffed Pheasants
+Sooty Shearwater
+Tasmanian Magpie
+Typical Thrushes
+Whio (Blue Duck)
+Australasian Coot
+Australian Magpie
+British Chaffinch
+Cape Barren Goose
+Chatham Albatross
+Eurasian Whimbrel
+Great Albatrosses
+Great Frigatebird
+Grey-faced Petrel
+Kermadec Parakeet
+Little Shearwater
+North Island Weka
+Northern Shoveler
+Pigeons and Doves
+Reeves's Pheasant
+Sacred Kingfisher
+Siberian Whimbrel
+Skuas and Jaegers
+Small Shearwaters
+Straw-necked Ibis
+Subantarctic Skua
+Terns and Noddies
+Typical Shelducks
+Wandering Tattler
+Western Sandpiper
+White-winged Tern
+Antipodes Parakeet
+Australasian Grebe
+Australian Pelican
+Black-fronted Tern
+Bounty Island Shag
+Broad-billed Prion
+Buller's Albatross
+Campbell Albatross
+Common Indian Myna
+Domestic Cockatiel
+Eurasian Chaffinch
+European Goldfinch
+Far Eastern Curlew
+Giant Canada Goose
+Gibson's Albatross
+Hoary-headed Grebe
+Lesser Frigatebird
+Masked Woodswallow
+North Island Snipe
+Okarito Brown Kiwi
+Old World Buntings
+Pacific Reef Heron
+Pectoral Sandpiper
+Poaka (Pied Stilt)
+Salvin's Mollymawk
+Snares Cape Petrel
+Spur-winged Plover
+Swinhoe's Pheasant
+Tauhou (Silvereye)
+White-fronted Tern
+Wilson's Phalarope
+Australian Barn Owl
+Australian Ringneck
+Black-tailed Godwit
+Black-winged Petrel
+Boobies and Gannets
+Calidris Sandpipers
+Chatham Island Shag
+Domestic Budgerigar
+Domestic Guineafowl
+Domestic Swan Goose
+Eastern Little Tern
+Eurasian Black Tern
+Greater Sand-Plover
+Grey-tailed Tattler
+Helmeted Guineafowl
+Hutton's Shearwater
+KakÄ« (Black Stilt)
+Korimako (Bellbird)
+Laughing Kookaburra
+Little Spotted Kiwi
+Nankeen Night-Heron
+North Island KÄkÄ
+North Island Tomtit
+Pied Ã— Black Stilt
+Procellaria Petrels
+PÄrera (Grey Duck)
+Reischek's Parakeet
+Rosy-faced Lovebird
+Snares Island Snipe
+South Island KÄkÄ
+South Island Tomtit
+Southern Brown Kiwi
+Stewart Island Shag
+Stewart Island Weka
+Tasman Masked Booby
+Wandering Albatross
+White-headed Petrel
+White-necked Petrel
+Alexandrine Parakeet
+Antipodean Albatross
+Auckland Island Shag
+Australasian Bittern
+Australian Wood Duck
+British Yellowhammer
+Campbell Island Shag
+Chatham Island Pipit
+Chatham Island TÅ«Ä«
+Common Diving-Petrel
+Cormorants and Shags
+Eastern Cattle Egret
+New Zealand Dotterel
+New Zealand Fernbird
+Ngutu Pare (Wrybill)
+North Island Fantail
+North Island KÅkako
+Old World Cormorants
+Plovers and Lapwings
+PÄteke (Brown Teal)
+Red-legged Partridge
+Ring-necked Pheasant
+Rose-ringed Parakeet
+Shovelers and Allies
+Siberian Common Tern
+Siberian Sand-Plover
+Slender-billed Prion
+Soft-plumaged Petrel
+South Island Fantail
+Southern Shearwaters
+Stewart Island Robin
+Swallows and Martins
+White-chinned Petrel
+African Collared-Dove
+Antarctic Cape Petrel
+Auckland Island Pipit
+Auckland Island Snipe
+Auckland Islands Teal
+Campbell Island snipe
+Campbell Islands Teal
+Chatham Island Tomtit
+Chatham Islands Snipe
+Chatham Oystercatcher
+Domestic Muscovy Duck
+Forster's Brown Booby
+Gray-headed Albatross
+Greylag Ã— Swan Goose
+KÅtuku (White Heron)
+Mainland Spotted Shag
+MÄpunga (Black Shag)
+New Zealand King Shag
+New Zealand Rock Wren
+North Island Rifleman
+Northern Blue Penguin
+Northern Giant-Petrel
+Plumed Whistling-Duck
+Poor Knights Bellbird
+Red-tailed Tropicbird
+Sandpipers and Allies
+Shorebirds and Allies
+South Island Fernbird
+South Island Rifleman
+Southern Giant-Petrel
+White-cheeked rosella
+Wilson's Storm-Petrel
+Antipodes Island Pipit
+Antipodes Island Snipe
+Asian Gull-billed Tern
+Auckland Island Tomtit
+Australian Brown Quail
+Australian King-Parrot
+Black-browed Albatross
+Black-fronted Dotterel
+Broad-billed Sandpiper
+Chatham Island Fantail
+Chatham Island Warbler
+Domestic Greylag Goose
+European house sparrow
+New Zealand Fairy Tern
+PÅpokotea (Whitehead)
+Sharp-tailed Sandpiper
+Snares Island Fernbird
+Southern Diving Petrel
+Southern Storm-Petrels
+Taranui (Caspian Tern)
+White-capped Mollymawk
+Black-tailed Native-hen
+Buff-breasted Sandpiper
+Codfish Island Fernbird
+Ducks, Geese, and Swans
+Flesh-footed Shearwater
+Greylag Ã— Canada Goose
+Kawaupaka (Little Shag)
+KÄruhiruhi (Pied Shag)
+Lady Amherst's Pheasant
+Light-mantled Albatross
+Mallard Ã— Muscovy Duck
+North Island Brown Kiwi
+Northern Spotless Crake
+Orange-fronted Parakeet
+Paradise Duck x Mallard
+Riroriro (Grey Warbler)
+Sand-Plovers and Allies
+Shearwaters and Petrels
+Short-tailed Shearwater
+South Island Brown Kiwi
+Southern Spotless Crake
+Stewart Island Fernbird
+Warou (Welcome Swallow)
+White-flippered Penguin
+Yellow-crowned Parakeet
+Coastal California Quail
+Eastern Rainbow Lorikeet
+Eurasian Ruddy Turnstone
+European Common Starling
+Gray-backed Storm-Petrel
+Hawks, Eagles, and Kites
+Large White-headed Gulls
+New Zealand Storm-Petrel
+Northern Royal Albatross
+Southern Royal Albatross
+Sulphur-crested Cockatoo
+Whenua Hou Diving Petrel
+White-faced Storm-Petrel
+Asian Black-tailed Godwit
+Australasian Little Egret
+Australian Little Penguin
+Common Australasian Grebe
+Hauraki Little Shearwater
+Kapiti Island Hybrid Weka
+Kuaka (Bar-tailed Godwit)
+Matuku Moana (Reef heron)
+PÄrekareka(Spotted Shag)
+Stewart Island Brown Kiwi
+Tara (White Fronted Tern)
+Typical Herons and Egrets
+TÄ«titipounamu (Rifleman)
+Black-bellied Storm-Petrel
+Chestnut-breasted Shelduck
+Common Laughing Kookaburra
+Cook Strait Little Penguin
+Crimson Ã— Eastern Rosella
+Eastern Rockhopper Penguin
+Gulls, Terns, and Skimmers
+Karoro (Black-backed Gull)
+Kermadec Little Shearwater
+Moho PererÅ« (Banded Rail)
+New Zealand Antarctic Tern
+Pohowera (Banded Dotterel)
+Pokotiwha (Snares Penguin)
+Rako (Buller's Shearwater)
+Roroa (Great Spotted Kiwi)
+Subantarctic Diving Petrel
+TÄ“tÄ“ Moroiti (Grey Teal)
+Western European Blackbird
+Eastern White-backed Magpie
+Grey Duck Ã— Mallard hybrid
+Hoiho (Yellow-Eyed Penguin)
+South Island Little Penguin
+Southern Rockhopper Penguin
+Western European Little Owl
+Chinese Ring-necked Pheasant
+Herons, Egrets, and Bitterns
+Northern European Greenfinch
+PÄpango (New Zealand Scaup)
+Rails, Gallinules, and Coots
+Shanks, Tattlers, and Allies
+Southeast Asian Spotted Dove
+TarÄpunga (Red-billed Gull)
+Western European Song Thrush
+Chatham Island Little Penguin
+Indian Yellow-nosed Albatross
+Kakaruai (South Island Robin)
+KoekoeÄ (Long-tailed Cuckoo)
+KororÄ (Little Blue Penguin)
+Mainland Red-crowned Parakeet
+New Siberian Islands Red Knot
+Northern Bullerâ€™s Mollymawk
+Northern New Zealand Dotterel
+Pheasants, Grouse, and Allies
+PÄ«hoihoi (New Zealand Pipit)
+Southern Bullerâ€™s Mollymawk
+Southern New Zealand Dotterel
+Swamphens and Blue Gallinules
+TarÄpuka (Black-billed Gull)
+TÄkapu (Australasian Gannet)
+Weweia (New Zealand Dabchick)
+Finches, Euphonias, and Allies
+Kuriri (Pacific Golden Plover)
+KÄrearea (New Zealand Falcon)
+Mallards, Pintails, and Allies
+Northeastern Siberian Red Knot
+Toutouwai (North Island Robin)
+Auckland Island Banded Dotterel
+Gannets, Cormorants, and Allies
+Kawau TÅ«Ä« (Little Black Shag)
+PakahÄ (Fluttering Shearwater)
+Turtle-Doves and Collared-Doves
+TÅrea (Variable Oystercatcher)
+Australasian Nankeen Night-Heron
+Greater sulphur-crested cockatoo
+Matuku Moana (White faced heron)
+New Zealand Kingfisher (KÅtare)
+PÄ«pÄ«wharauroa (Shining Cuckoo)
+Southeastern Black-backed Magpie
+TÄ«eke (North Island Saddleback)
+TÄ«eke (South Island Saddleback)
+KererÅ« (New Zealand Wood Pigeon)
+Kuaka (Eastern Bar-tailed Godwit)
+KÄkÄriki (Red-Crowned Parakeet)
+Lady Amherst's Ã— Golden Pheasant
+MÄtÄtÄ (North Island Fernbird)
+PÅ«tangitangi (Paradise Shelduck)
+Kuruwhengi (Australasian Shoveler)
+New Zealand White-capped Albatross
+Parea (Chatham Island Wood Pigeon)
+Tawaki (Fiordland Crested Penguin)
+Chatham Island Red-crowned Parakeet
+KÄruhiruhi (New Zealand Pied Shag)
+KÅtuku Ngutupapa (Royal Spoonbill)
+PÄ«pipi (New Zealand Brown Creeper)
+New Zealand White-faced Storm-Petrel
+Red-billed Gull Ã— Black-billed Gull
+South Australian White-backed Magpie
+Black-browed Albatross (Black-browed)
+California QuailMallard Ã— Brown Teal
+Pihoihoi (Mainland New Zealand Pipit)
+Red-crowned Ã— Yellow-crowned Parakeet
+Domestic Greylag Ã— Domestic Swan Goose
+Tawaki Nana HÄ« (Erect-Crested Penguin)
+Korimako (Mainland New Zealand Bellbird)
+PÅ«teketeke (Australasian Crested Grebe)
+TÅrea (South Island Pied Oystercatcher)
+Chatham and Auckland Islands White-fronted Tern
+South Island Pied Ã— Variable Oystercatcher hybrid
