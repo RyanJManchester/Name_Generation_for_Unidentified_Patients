@@ -42,12 +42,10 @@
   </ol>
 </details>
 
-
-
-<!-- ABOUT THE PROJECT -->
 ## Intent of this Repository
 
 Here's a blank template to get started: Lorem Ad Ipsum
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -77,7 +75,9 @@ Any terminal that can run python3, such as bash, WSL, windows terminal. The prov
    ```sh
    git clone https://github.com/RyanJManchester/stunning-pancake.git
    ```
-   
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
@@ -85,6 +85,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 1. After cloning the repo, place your desired starting files in the folder or use one of our templates
+
   
 2. Use matcher.py to combine the wordlists together
    
@@ -93,7 +94,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
    python3 scripts/matcher.py first_names last_names desired_file_name
    ```
 
+
 3. Cleaning the wordlists
+   
    You can use the cleaner script to remove lines that contain profanity or terms we deemed vulgar, or not suitable for placeholders.
    if you wish to add you own text files that include words you wish to remove, you can modify the top line in the cleaners.py file
      which provides you with a list you can add the file name to.
@@ -102,29 +105,28 @@ _For more examples, please refer to the [Documentation](https://example.com)_
    python3 scripts/cleaner.py to_clean
    ```
    Alternatively, you can clean each wordlist seperately prior to matching them together, but combined results wont be checked.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 4. Removing Duplicates if you want to
    ```sh
    python3 scripts/remove_duplicates my_output
    ```
-   
+
+
 Other Scripts i have provided that might be helpful:
    ```sh
    python3 scripts/remove_duplicates my_output
    ```
+
    
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- ROADMAP -->
 ## Our Roadmap
 <div>
 <img src ="https://github.com/RyanJManchester/Name_Generation_for_Unidentified_Patients/blob/main/Jane%20Doe%20Poster.png" width = 900px />
 </div>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contributing
 
@@ -146,7 +148,6 @@ Don't forget to give the project a star! Thanks again!
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## Contact
 
@@ -170,11 +171,8 @@ Project Link: [https://github.com/RyanJManchester/stunning-pancake](https://gith
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
 [stars-shield]: https://img.shields.io/github/stars/RyanJManchester/stunning-pancake.svg?style=for-the-badge
 [stars-url]: https://github.com/RyanJManchester/stunning-pancake/stargazers
-
 [license-url]: https://github.com/RyanJManchester/stunning-pancake/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/RyanJManchester
