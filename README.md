@@ -1,18 +1,23 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
+
 
 ![Static Badge](https://img.shields.io/badge/CONTRIBUTORS-5-green?style=for-the-badge&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/license-MIT-green?style=for-the-badge&logo=license&logoSize=auto)
 [![LinkedIn][linkedin-shield]][linkedin-url]
-<!-- ![Forks](https://github.com/RyanJManchester/stunning-pancake/network/members) -->
-<!-- [![Stargazers][stars-shield]][stars-url] -->
+
 
 <h2 align="center" >Te Whatu Ora: Name Generation for Unidentified Patients</h2>
   <p align="center">
-    MY project_description
-    <br />
-    <br />
-    <br />
+This project centres on providing temporary names to individuals that are being treated in hospital because of a mass casualty event or significant disruption to IT system services.
+ <br> <br>
+After reports and feedback from the sector (both nationally and internationally) DHB clinicians had identified opportunities to change and standardize their processes throughout all of the Aotearoa health sector.
+     <br>
+     <br>
+One aspect is creating a repository of alternative (first and family) names. This will allow facilities to provide a temporary name during the first few hours to allow care to commence and prevent patients from being inadvertently mixed up. For example, one Mass Casualty Incident saw several patient labels marked as “unknown unknown” along with being issued a sequential patient identity number (NHI’s); this makes it extremely difficult to differentiate between multiple patients as they all had similar identifiers on their labels. 
+     <br>
+ <br>
+Our resulting repository included more than a 1000 gender neutral, non-offensive words that do not tend to be used as existing names and that are less than eleven characters long, Including both English and te reo Māori entries.
+ <br>
     ·
     <a href="https://github.com/RyanJManchester/stunning-pancake/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
@@ -43,8 +48,14 @@
 </details>
 
 ## Intent of this Repository
+<p align="center">
+This project follows the creation of an alternative-name repository and is provided in case other's want to replicate our Work or use it as a resource.  This has involved:</p>
 
-Here's a blank template to get started: Lorem Ad Ipsum
+1. Investigating existing techniques for alternative-name generation (such as preset usernames and password generation) using a Literature review.
+
+2. Selecting suitable wordlists for use, and
+                                               
+3. Developing scripts that can filter out unwanted words based on several criteria.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -86,6 +97,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 1. After cloning the repo, place your desired starting files in the folder or use one of our templates
 
+ <br>
   
 2. Use matcher.py to combine the wordlists together
    
@@ -94,6 +106,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
    python3 scripts/matcher.py first_names last_names desired_file_name
    ```
 
+ <br>
 
 3. Cleaning the wordlists
    
@@ -105,13 +118,13 @@ _For more examples, please refer to the [Documentation](https://example.com)_
    python3 scripts/cleaner.py to_clean
    ```
    Alternatively, you can clean each wordlist seperately prior to matching them together, but combined results wont be checked.
-
-
+ <br>
+ 
 4. Removing Duplicates if you want to
    ```sh
    python3 scripts/remove_duplicates my_output
    ```
-
+ <br>
 
 Other Scripts i have provided that might be helpful:
    ```sh
@@ -161,11 +174,20 @@ Project Link: [https://github.com/RyanJManchester/stunning-pancake](https://gith
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [Jemma Konig]()
-* [Te Kaka Keegan]()
-* [Andreea Claude]()
-* [Kevin Marshall]()
-* [Emma Laurey]()
+* [Jemma König](https://profiles.waikato.ac.nz/jemma.konig) <br>
+  Computer Science Professor <br> <br>
+* [Te Kaka Keegan](https://profiles.waikato.ac.nz/tetaka.keegan) <br>
+  Māori Dean, Associate Computer Science Professor <br>
+* [Annika Hinze](https://profiles.waikato.ac.nz/annika.hinze) <br>
+  Head of Computer Science <br>
+* [Andreea Calude](https://profiles.waikato.ac.nz/andreea.calude) <br>
+  Linguistics <br>
+* [Kevin Henshall]() <br>
+  DHB Clinician <br>
+* [Emma Laurey]() <br>
+  DHB Clinician <br>
+* [Sophie Mackay]() <br>
+  DHB Clinician <br>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
