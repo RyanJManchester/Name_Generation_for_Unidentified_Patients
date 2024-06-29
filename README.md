@@ -175,7 +175,7 @@ Project Link: [https://github.com/RyanJManchester/stunning-pancake](https://gith
 ## Acknowledgments
 
 * [Jemma König](https://profiles.waikato.ac.nz/jemma.konig) <br>
-  Computer Science Professor <br> <br>
+  Computer Science Professor <br>
 * [Te Kaka Keegan](https://profiles.waikato.ac.nz/tetaka.keegan) <br>
   Māori Dean, Associate Computer Science Professor <br>
 * [Annika Hinze](https://profiles.waikato.ac.nz/annika.hinze) <br>
