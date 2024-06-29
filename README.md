@@ -1,23 +1,6 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
 
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 ![Static Badge](https://img.shields.io/badge/CONTRIBUTORS-5-green?style=for-the-badge&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/license-MIT-green?style=for-the-badge&logo=license&logoSize=auto)
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -25,14 +8,11 @@
 <!-- [![Stargazers][stars-shield]][stars-url] -->
 
 <h2 align="center" >Te Whatu Ora: Name Generation for Unidentified Patients</h2>
-
   <p align="center">
-    project_description
+    MY project_description
     <br />
     <br />
     <br />
-    ·
-    <a href="https://github.com/RyanJManchester/stunning-pancake/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
     <a href="https://github.com/RyanJManchester/stunning-pancake/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
@@ -65,37 +45,39 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+## Intent of this Repository
 
 Here's a blank template to get started: Lorem Ad Ipsum
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-### Built With  ![Static Badge](https://img.shields.io/badge/Python-black?style=flat&logo=python&logoSize=auto)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-<!-- USAGE EXAMPLES -->
+### Computer Prerequisites
+Any terminal that can run python3, such as bash, WSL, windows terminal. The provided commands work for bash terminals. 
+* Python
+  <details>
+    <summary>Installing Python3</summary>
+    first, make sure your package Lists are updated
+    
+   ```sh
+   sudo apt-get update
+   ```
+    Update package Lists if needed
+  
+   ```sh
+   sudo apt-get upgrade
+   ```
+    Installing Python itself
+    
+   ```sh
+   
+   sudo apt-get install python3.6
+   ```
+  </details>
+* Clone this repo
+   ```sh
+   git clone https://github.com/RyanJManchester/stunning-pancake.git
+   ```
+   
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
@@ -103,10 +85,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/RyanJManchester/stunning-pancake.git
-   ```
+
 3. Install NPM packages
    ```sh
    npm install
@@ -119,14 +98,10 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 <!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/RyanJManchester/stunning-pancake/issues) for a full list of proposed features (and known issues).
+## Our Roadmap
+<div>
+<img src ="https://github.com/RyanJManchester/Name_Generation_for_Unidentified_Patients/blob/main/Jane%20Doe%20Poster.png" width = 900px />
+</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
